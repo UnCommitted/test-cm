@@ -1,0 +1,3 @@
+[submodule "git-utilities"]
+	path = git-utilities
+	url = git@github.com:eResearchSA/git-utilities.git
